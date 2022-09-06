@@ -12,6 +12,10 @@
     <input type="text" placeholder="Enter Location" name="Location" id="Location" required>
     <br>
 
+    <label for="Name"><b>Enter Pincode</b></label>
+    <input type="text" placeholder="Enter Pincode" name="Pincode" id="Pincode" required>
+    <br>
+
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
