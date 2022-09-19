@@ -8,6 +8,10 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
+    <label for="Name"><b>Enter Gender</b></label>
+    <input type="text" placeholder="Enter Gender" name="Gender" id="Gender" required>
+    <br>
+
     <label for="Name"><b>Enter Location</b></label>
     <input type="text" placeholder="Enter Location" name="Location" id="Location" required>
     <br>
